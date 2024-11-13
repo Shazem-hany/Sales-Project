@@ -25,16 +25,21 @@ The data cleaning process involved:
 ![(https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001039.png)](https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001039.png)
 Data Modeling
 A data model was created to establish relationships between different tables, such as "Sales," "Products," and "Customers." Calculated measures were added, including total revenue and units sold per product.
-Results
 ![file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001252.png](https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001252.png)
+
+Results
+
 •	Top Product: The highest-selling product is "Bikes."
 •	Top Customer: Customer number 451 has made the most purchases.
 •	Top Country for Sales: Canada.
 •	Top Employee: Employee number 289 performed the best.
 •	Total Profit: $30 million.
+
+
 Dash Board Overview
 ![file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001359.png](https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001359.png)
 ![file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001459.png](https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001459.png)
+
 Tools Used
 •	Power BI
 •	Power Query
