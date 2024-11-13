@@ -26,7 +26,7 @@ The data cleaning process involved:
 Data Modeling
 A data model was created to establish relationships between different tables, such as "Sales," "Products," and "Customers." Calculated measures were added, including total revenue and units sold per product.
 Results
-file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001252.png
+![file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001252.png](https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001252.png)
 •	Top Product: The highest-selling product is "Bikes."
 •	Top Customer: Customer number 451 has made the most purchases.
 •	Top Country for Sales: Canada.
