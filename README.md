@@ -33,7 +33,7 @@ Results
 •	Top Employee: Employee number 289 performed the best.
 •	Total Profit: $30 million.
 Dash Board Overview
-file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001359.png
+![file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001359.png](https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001359.png)
 file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001459.png
 Tools Used
 •	Power BI
