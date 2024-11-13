@@ -22,7 +22,7 @@ The data cleaning process involved:
 •	Handling Missing Values: Replacing missing values as necessary.
 •	Data Type Adjustments: Ensuring the data types were consistent with the required analysis.
 •	Removing Duplicates: To ensure accurate results.
-file:///C:/Users/COMPU%20EL7ATEM/Documents/Power%20BI%20Desktop/Sales%20Project/Screenshot%202024-11-14%20001039.png
+(https://github.com/Shazem-hany/Sales-Project/blob/main/Screenshot%202024-11-14%20001039.png)
 Data Modeling
 A data model was created to establish relationships between different tables, such as "Sales," "Products," and "Customers." Calculated measures were added, including total revenue and units sold per product.
 Results
